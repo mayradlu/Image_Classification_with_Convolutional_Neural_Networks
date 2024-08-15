@@ -25,7 +25,7 @@ Fashion-MNIST
 **Custom Images**
 * Size: 2,500 images (500 per class).
 * Description: Images captured from different angles and lighting conditions, showing a shoe, a cap, a cellphone, a pencil, and a book.
-* Database
+* [Database](https://drive.google.com/drive/folders/11RqS3AW_XcmWsf4wpP2AmGoQ8Ce1bNPo?usp=sharing)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/034ae7ba-14ab-4c45-b3ba-87d16ada8db5" alt="imagen" width="400">
 </p>
