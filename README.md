@@ -3,7 +3,7 @@
 In the digital revolution era, image analysis has become a crucial task, driven by advancements in artificial intelligence. This project focuses on applying Convolutional Neural Networks (CNNs) to three different datasets, aiming to achieve a high level of accuracy in classification and recognition tasks.
 
 ## Data Description
-Fashion-MNIST
+**Fashion-MNIST**
 * Size: 70,000 images (60,000 for training and 10,000 for testing).
 * Description: Grayscale images, 28x28 pixels, representing 10 classes of clothing items (shirt, pants, sweater, dress, coat, shoes, t-shirt, sneakers, bag, boots).
 <p align="center">
